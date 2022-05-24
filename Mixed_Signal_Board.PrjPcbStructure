@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=[2] Power_Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=[3] STM32F103 Debugger.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=[4] Ethernet PHY .SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=ADC Chip.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=CH340C.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=DAC and MIC .SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=Motor Driver 1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=Motor Driver 2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=Power Input and Regulators.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=[2] Power_Budget.SchDoc|FileName=STM32F407.SchDoc|SheetNumber=9
